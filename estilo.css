@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AR:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Quicksand:wght@300..700&display=swap');
+
+*{
+    margin: 0;
+}
+body{
+    background-color: rgb(187, 170, 170);
+}
+h1{
+font-family: "Playwrite AR", cursive;
+text-align: center;
+}
+
+h2{
+    font-family: "Playwrite AR", cursive;
+    text-align: center;
+    margin-top: 25px;
+}
+
+h3{
+    font-family: "Playwrite AR", cursive;
+    text-align: center;
+}
+
+p{
+    font-family: "Quicksand", sans-serif;
+    text-align: center;
+}
+
+.descricao{
+    font-family: "Quicksand", sans-serif;
+    text-align: justify;
+}
+
+.img{
+    width: 500px;
+    box-shadow: 10px 10px 5px rgb(126, 109, 109);
+    border-radius: 10px;
+}
+
+.bebida{
+    text-align: center;
+}
+
+footer{
+    background-color: rgb(102, 86, 86);
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    justify-content: center;
+}
+
+.conteudo-principal{
+    padding: 20px;
+}
+
+footer a{
+    text-decoration: none;
+    color: rgb(14, 12, 12);
+}
+
+
+.flexi{
+ 
+padding: 5%;
+
+}
+.pt5{
+    padding-top: 1%;
+
+}
+.fotoperfil{
+    padding-top: 2%;
+    border-radius: 50%;
+   
+    width:250px;
+}
